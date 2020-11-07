@@ -1,3 +1,2 @@
 # JSON file (to be accessed using https://raw.githubusercontent.com/)
-{"fruits": ["apple", "banana", "orange"], "prices": 
-["apple": "2.50", "banana": "1.50", "orange": "3.00"]}
+"fruits": {["apple", "banana", "orange"], "prices": ["apple": "2.50", "banana": "1.50", "orange": "3.00"]}
